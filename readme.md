@@ -1,5 +1,7 @@
 ## Example Julia code for following along with GT ModSim (CSE6730)
 
+The below are webpages. For the actual notebook files, check out [this repo.](https://github.com/modsim-s23/demos)
+
 * [Logistic model](julia-notebooks/logistic-model-julia2.jl.html)
 * [SIR demo](julia-notebooks/sir-demo-julia.jl.html)
 * [Linear model of love](julia-notebooks/linear-model-of-love.jl.html)
@@ -18,3 +20,9 @@
 * [DES process oriented](julia-notebooks/des-process-oriented4.jl.html)
 * [PRNG LCG](julia-notebooks/prng-lcg-lehmer.jl.html)
 * [DMD CFD](julia-notebooks/dmd-cfd2.jl.html)
+
+### Note
+
+These come courtesy of Prof. Rich Vuduc. 
+Do not redistribute without permission.
+
