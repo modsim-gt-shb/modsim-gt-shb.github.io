@@ -1,3 +1,22 @@
 # Examples for following along with GT ModSim (CSE6730)
 
+* [1d-random-walk](julia-notebooks/1d-random-walk.jl.html)
+* [des-process-oriented4](julia-notebooks/des-process-oriented4.jl.html)
+* [discrete-events-from-scratch](julia-notebooks/discrete-events-from-scratch.jl.html)
+* [discrete-events-from-scratch2](julia-notebooks/discrete-events-from-scratch2.jl.html)
+* [dmd-cfd2](julia-notebooks/dmd-cfd2.jl.html)
+* [elementary-cellular-automaton](julia-notebooks/elementary-cellular-automaton.jl.html)
+* [fluids-ca--EXERCISES](julia-notebooks/fluids-ca--EXERCISES.jl.html)
+* [fluids-ca](julia-notebooks/fluids-ca.jl.html)
+* [forest-fire-ca](julia-notebooks/forest-fire-ca.jl.html)
+* [linear-model-of-love](julia-notebooks/linear-model-of-love.jl.html)
+* [logistic-model-julia2](julia-notebooks/logistic-model-julia2.jl.html)
+* [ode-ivp-demo2](julia-notebooks/ode-ivp-demo2.jl.html)
+* [one-way-wave-eq2](julia-notebooks/one-way-wave-eq2.jl.html)
+* [prng-lcg-lehmer](julia-notebooks/prng-lcg-lehmer.jl.html)
+* [sir-demo-julia](julia-notebooks/sir-demo-julia.jl.html)
+* [task-demo](julia-notebooks/task-demo.jl.html)
+* [traffic-1d-v2](julia-notebooks/traffic-1d-v2.jl.html)
+* [traffic-1d](julia-notebooks/traffic-1d.jl.html)
+
 
