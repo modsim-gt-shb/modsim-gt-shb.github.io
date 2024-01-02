@@ -23,7 +23,7 @@ Below are web pages. For the actual notebook files, check out [this repo.](https
 
 ### Note
 
-These come courtesy of Prof. Rich Vuduc. 
+Some of these come courtesy of Prof. Rich Vuduc (Georgia Tech CSE). 
 Do not redistribute without permission.
 
 [_Take me home._](https://github.com/modsim-s23)
