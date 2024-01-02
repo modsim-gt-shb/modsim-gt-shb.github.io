@@ -1,6 +1,6 @@
 ## Example Julia code for following along with GT ModSim (CSE6730)
 
-The below are webpages. For the actual notebook files, check out [this repo.](https://github.com/modsim-s23/demos)
+Below are web pages. For the actual notebook files, check out [this repo.](https://github.com/modsim-s23/demos)
 
 * [Logistic model](julia-notebooks/logistic-model-julia2.jl.html)
 * [SIR demo](julia-notebooks/sir-demo-julia.jl.html)
