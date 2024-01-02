@@ -26,5 +26,5 @@ Below are web pages. For the actual notebook files, check out [this repo.](https
 Some of these come courtesy of Prof. Rich Vuduc (Georgia Tech CSE). 
 Do not redistribute without permission.
 
-[_Take me home._](https://github.com/modsim-s23)
+[_Take me home._](https://github.com/modsim-gt-shb)
 
